@@ -1,0 +1,3 @@
+export const GOOGLE_CLIENT_ID = process.env.GOOGLE_CLIENT_ID
+export const GOOGLE_REDIRECT_URL_ENDPOINT = process.env.GOOGLE_REDIRECT_URL_ENDPOINT
+export const GOOGLE_AUTH_URL = process.env.GOOGLE_AUTH_URL
